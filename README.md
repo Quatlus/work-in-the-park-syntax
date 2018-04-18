@@ -4,5 +4,5 @@
 
 *Atom Syntax Theme*
 
-![](https://i.imgur.com/1PQE6de.jpg)
+![Imgur](https://i.imgur.com/apQ5brH.jpg)
 > Use with "One Light" UI Theme.
