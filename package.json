@@ -1,7 +1,7 @@
 {
   "name": "work-in-the-park-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Work in the Park - a monochrome color scheme for poor contrast conditions in the bright sun, using a shitty laptop.",
   "keywords": [
     "syntax",
